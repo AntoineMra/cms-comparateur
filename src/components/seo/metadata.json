@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_seo_metadata",
+  "info": {
+    "displayName": "Metadata",
+    "icon": "quote"
+  },
+  "options": {},
+  "attributes": {
+    "metatitle": {
+      "type": "string"
+    },
+    "metadescription": {
+      "type": "blocks"
+    },
+    "canonicalUrl": {
+      "type": "string"
+    }
+  }
+}
